@@ -1,2 +1,3 @@
 # cpu-eval
-Code samples for evaluation of the CPU
+This repository will hold sample codes for evaluation of the CPU (LO5).
+For more details see http://ourfool.hatenablog.com/.
